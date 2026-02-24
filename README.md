@@ -5,6 +5,11 @@
 
 ---
 
+## 📸 Preview
+
+![Task Manager Screenshot](./assets/screenshot.png)
+
+
 ## 🚀 Features
 
 - Add new tasks
